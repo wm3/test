@@ -6,7 +6,7 @@ public class Some {
 		if (true) return "xxx";
 
 		/** TODO: コメント */
-		return "xyz";
+		return "xyzz";
 	}
 
 	public void あいうえお() {
